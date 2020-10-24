@@ -10,7 +10,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-body nav {
+body nav li {
   display: inline-block;
   background: rgba(110, 194, 89, 0.5);
   color: rgba(41, 41, 41, 1);
